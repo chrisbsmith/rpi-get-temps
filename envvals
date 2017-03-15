@@ -1,0 +1,4 @@
+export TEMP_API_KEY=''
+export TEMP_UID=''
+export TEMP_EXPLICIT_AUTH=''
+export TEMP_FIREBASE_URL=''
